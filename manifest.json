@@ -1,0 +1,56 @@
+{
+  "version": "1.0.1.83",
+  "commit": "ca6853b",
+  "built_at": "2026-09-25T18:11:26Z",
+  "notes": "",
+  "assets": {
+    "darwin-amd64": {
+      "name": "deskflow-monitor-darwin-amd64",
+      "sha256": "5222c34555c61a7614778092a86bfdbc4aadff8cbc720c0d550a9bf16719d9d4"
+    },
+    "darwin-arm64": {
+      "name": "deskflow-monitor-darwin-arm64",
+      "sha256": "6c58b5cc5f133c050945535179151c52204e1caff0232b6979b3381a7856ae6e"
+    },
+    "linux-amd64": {
+      "name": "deskflow-monitor-linux-amd64",
+      "sha256": "e2b8a080d5f8742eb6bbcb8bbdab46b38a321ece9285a3d299da0c1268aa9dc6"
+    },
+    "linux-arm64": {
+      "name": "deskflow-monitor-linux-arm64",
+      "sha256": "2d35eb32983ee0dd6f8683d3edd9f374635ff5d4986a3d705c38601a4a062251"
+    },
+    "updater-darwin-amd64": {
+      "name": "check_updates-darwin-amd64",
+      "sha256": "55e018d66a3f0e3fd699757a25e60885a33e7e121b1512ff425b254d0d7c17f8"
+    },
+    "updater-darwin-arm64": {
+      "name": "check_updates-darwin-arm64",
+      "sha256": "99272d5cf78606909ba35f96179a2aa3ee28fefda09face71a78b13a184d334d"
+    },
+    "updater-linux-amd64": {
+      "name": "check_updates-linux-amd64",
+      "sha256": "d87b6a53c8173842fa7094451455fc2b54ed08895a5ce6916d3b02693b14722e"
+    },
+    "updater-linux-arm64": {
+      "name": "check_updates-linux-arm64",
+      "sha256": "36315a15e3136860f652ed4b8a6a46ce024530196b008e2d888bb94254c4e97e"
+    },
+    "updater-windows-amd64": {
+      "name": "check_updates-windows-amd64.exe",
+      "sha256": "b575d1e8b6354689301f1cfccc087a1091295e806a3a00aa8b6bfebc357c7290"
+    },
+    "updater-windows-arm64": {
+      "name": "check_updates-windows-arm64.exe",
+      "sha256": "29fef3b0c161fa57ae34bbd6c772b4fe0f27761e7c249c605cc2276db910a6e1"
+    },
+    "windows-amd64": {
+      "name": "deskflow-monitor-windows-amd64.exe",
+      "sha256": "e74dd26b15c55cd5f5fc0484daa3bbae282f67efdb667affd5436fd15b438727"
+    },
+    "windows-arm64": {
+      "name": "deskflow-monitor-windows-arm64.exe",
+      "sha256": "d1752e796befcf6415715bd06be238852efdbf09f754dcf955d69cb90be598f8"
+    }
+  }
+}
